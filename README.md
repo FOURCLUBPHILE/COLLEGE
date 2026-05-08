@@ -1,31 +1,37 @@
-UniEvent Hub
+# UniEvent Hub
 
-A web-based College Event Management System developed using PHP and MySQL that allows students to register for events online while enabling administrators and coordinators to manage event activities efficiently
+UniEvent Hub is a college event management system built using PHP and MySQL that helps students register for events and allows admins to manage event activities efficiently.
 
+---
 
+## Features
 
-Features
-Student registration and login system
-Admin dashboard for event approvals
-Event creation and management
-Online event registration
-Role-based access control
-Session management using PHP
-Responsive UI using Bootstrap
-MySQL database integration
+- Student registration and login system
+- Admin dashboard for event approvals
+- Event creation and management
+- Online event registration
+- Role-based access control
+- Session management using PHP
+- Responsive UI using Bootstrap
+- MySQL database integration
 
+---
 
-Tech Stack
+## Tech Stack
 
-Technology	Purpose
-PHP	Backend development
-MySQL	Database management
-HTML5	Frontend structure
-Bootstrap	UI styling and responsiveness
-XAMPP	Local server environment
+| Technology | Purpose |
+|------------|----------|
+| PHP | Backend Development |
+| MySQL | Database Management |
+| HTML5 | Frontend Structure |
+| Bootstrap | UI Styling & Responsiveness |
+| XAMPP | Local Server Environment |
 
-Project Structure
+---
 
+## Project Structure
+
+```bash
 UniEventHub/
 │
 ├── assets/
@@ -45,86 +51,3 @@ UniEventHub/
 ├── student_dashboard.php
 ├── database.sql
 └── README.md
-
-
-
-How It Works
-Users register and log in to the system.
-Coordinators can create new events.
-Students can browse and register for events.
-Admins can approve or manage event requests.
-All event and user information is stored in MySQL database.
-
-
-Installation & Setup
-
-Clone Repository
-git clone 
-cd UniEventHub
-Setup Database
-Open phpMyAdmin
-Create a database
-Import database.sql
-Run Project
-Move project folder into htdocs
-Start Apache and MySQL in XAMPP
-Open browser:
-
-
-
-
-PHP backend development
-MySQL database integration
-Session management
-CRUD operations
-Authentication systems
-Full-stack web application workflow
-Future Improvements
-Email notifications
-QR-based event entry
-Attendance tracking
-Admin analytics dashboard
-Mobile responsive enhancements
-
-
-
-
-Author
-
-Tarun Singh gautam
-
-Resume Keywords
-
-PHP • MySQL • HTML5 • Bootstrap • XAMPP • CRUD Operations • Authentication • Database Design • Full Stack Development • College Event Management System
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
