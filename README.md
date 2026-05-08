@@ -59,7 +59,7 @@ All event and user information is stored in MySQL database.
 Installation & Setup
 
 Clone Repository
-git clone https://github.com/your-username/UniEventHub.git
+git clone 
 cd UniEventHub
 Setup Database
 Open phpMyAdmin
@@ -70,7 +70,7 @@ Move project folder into htdocs
 Start Apache and MySQL in XAMPP
 Open browser:
 
-http://localhost/UniEventHub
+
 
 
 PHP backend development
@@ -85,6 +85,8 @@ QR-based event entry
 Attendance tracking
 Admin analytics dashboard
 Mobile responsive enhancements
+
+
 
 
 Author
